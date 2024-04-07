@@ -1,4 +1,4 @@
-# Ethereum Core Developer Apprentice Program 2021-2022
+# Ethereum Core Developer Apprentice Program 2021-2022 (Updates continued until 2023)
 
 ## Projects:
 
