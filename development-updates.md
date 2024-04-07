@@ -5,16 +5,25 @@
 > Add yours to the TOC if it isn't there already
 
 - [Contributing](#contributing)
+- [Cesar](#cesar)
+  - [Update #1](#cesar-update-1)
+  - [Update #2](#cesar-update-2)
+  - [Update #3](#cesar-update-3)
+  - [Update #4](#cesar-update-4)
+  - [Update #5](#cesar-update-5)
 
 - [Chao](#chao)
   
   - [Update #1](#chao-update-1)
   - [Update #2](#chao-update-2)
+  - [Update #3](#chao-update-3)
+  - [Update #4](#chao-update-4)
 
 - [Dan](#dan)
 
   - [Update #1](#dan-update-1)
   - [Update #2](#dan-update-2)
+  - [Update #3](#dan-update-3)
 
 - [JeremyAkatsa](#jeremyakatsa)
 
@@ -24,6 +33,9 @@
 - [j-cook](#j-cook)
   - [Update #1](#j-cook-update-1)
   - [Update #2](#j-cook-update-2)
+  - [Update #3](#j-cook-update-3)
+  - [Update #4](#j-cook-update-4)
+  - [Update #5](#j-cook-update-5)
   - [Link to Github](https://github.com/jmcook1186/beacon-light-client)
 
 - [Jolene](#jolene)
@@ -31,6 +43,7 @@
   - [Update #1](#jolene-update-1)
   - [Update #2](#jolene-update-2)
   - [Update #3](#jolene-update-3)
+  - [Update #4](#jolene-update-4)
 
 - [Keenan](#keenan)
 
@@ -55,14 +68,18 @@
   - [Update #1](#sevkibaba-update-1)
   - [Update #2](#sevkibaba-update-2)
 
-- [hansmrtn](#hansmrtn)
-  - [Update #1](#hansmrtn-update-1)
-  - [Update #2](#hansmrtn-update-2)
+- [hmux](#humx)
+  - [Update #1](#hmux-update-1)
+  - [Update #2](#hmux-update-2)
+  - [Update #3](#hmux-update-3)
 
 - [Alex](#alex)
   - [Update #1](#alex-update-1)
   - [Update #2](#alex-update-2)
   - [Update #3](#alex-update-3)
+  - [Update #4](#alex-update-4)
+  - [Update #5](#alex-update-5)
+  - [Update #6](#alex-update-6)
 
 - [muddlebee](#muddlebee)
     - [Update #1](#muddlebee-update-1)
@@ -83,6 +100,26 @@ your development updates in this document.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
 
+
+## Cesar
+
+Development updates from [`cbrzn`](https://github.com/cbrzn)
+
+### Cesar: Update 1
+[Going deep into Ethereum](https://github.com/ethereum-cdap/cohort-one/pull/63)
+
+### Cesar: Update 2
+[Understanding the entire stack - Getting familiar with Account Migration](https://github.com/ethereum-cdap/cohort-one/pull/71)
+
+### Cesar: Update 3
+[Brainstorming on why should we migrate away from EOAs](https://github.com/ethereum-cdap/cohort-one/pull/77)
+
+### Cesar: Update 4
+[Modular vs Monolith Blockchains, Account Migration brainstorm PoC](https://github.com/ethereum-cdap/cohort-one/pull/104)
+
+### Cesar: Update 5
+[Benefits of Ethereum upgrades, understanding EVM a bit more & start notes on Kintsugi testing](https://github.com/ethereum-cdap/cohort-one/pull/110)
+
 ## Chao
 
 Development updates from [`chaosma`](https://github.com/chaosma/)
@@ -93,7 +130,19 @@ Development updates from [`chaosma`](https://github.com/chaosma/)
 
 ### Chao: Update 2
 
-[Update #2](https://github.com/appliedzkp/maci/pull/327)
+[PR v1.0](https://github.com/appliedzkp/maci/pull/327)
+
+### Chao: Update 3
+
+[PR v0.10](https://github.com/appliedzkp/maci/pull/338)
+
+### Chao: Update 4
+
+[Update #2](https://hackmd.io/AEp-d1OBTl-sDF3ZrAEztQ)
+
+### Chao: Update 5
+
+[Update #3](https://hackmd.io/Lzgpl9owRA2W1FQFVNsIwQ)
 
 ## Dan
 
@@ -106,6 +155,9 @@ Development updates from [`buchhlz2`](https://github.com/buchhlz2/)
 ### Dan: Update 2
 
 [Link to update #2](https://hackmd.io/@dtb/By94YjF_F)
+### Dan: Update 3
+
+[Link to update #3](https://hackmd.io/@dtb/HJdcI_ssF)
 
 ## Empeje
 
@@ -136,6 +188,15 @@ Development updates from [`jeyakatsa`](https://github.com/jeyakatsa)
 ### j-cook: Update 2
 [Link to update notes](./notes/j-cook/update-2.md)
 
+### j-cook: Update 3
+[Link to update notes](./notes/j-cook/update-3.md)
+
+### j-cook: Update 4
+[Link to update notes](./notes/j-cook/update-4.md)
+
+### j-cook: Update 5
+[Link to update notes](./notes/j-cook/update-5.md)
+
 ## Jolene
 
 Development updates from [`jldunne`](https://github.com/jldunne)
@@ -151,6 +212,10 @@ Development updates from [`jldunne`](https://github.com/jldunne)
 ### Jolene: Update 3
 
 [Update #3](./notes/jldunne/development-updates/development-update-3.md)
+
+### Jolene: Update 4
+
+[Update #4](./notes/jldunne/development-updates/development-update-4.md)
 
 
 ## Keenan
@@ -213,17 +278,21 @@ Development updates from [`sevkibaba`](https://github.com/sevkibaba/)
 
 [See notes on Stage-1-to-2](./notes/sevki/Stage-1-to-2-Notes.md)
 
-## hansmrtn
+## hmux
 
-Development updates from [`hansmrtn`](https://github.com/hansmrtn/)
+Development updates from [`hmux`](https://github.com/hmux/)
 
-### hansmrtn: Update 1
+### hmux: Update 1
 
 [Update #1](https://hackmd.io/@hansmrtn/Hyytr4ZVF)
 
-### hansmrtn: Update 2
+### hmux: Update 2
 
 [Update #2](https://hackmd.io/@hansmrtn/ry5dKuREt)
+
+### hmux: Update 3
+
+[Update #3](https://hackmd.io/@hansmrtn/HyyhYLqpK)
 
 ## Alex 
 
@@ -240,6 +309,18 @@ Development updates from [`alexchenzl`](https://github.com/alexchenzl/)
 ### Alex: Update 3
 
 [Update #3](https://hackmd.io/@alexchenzl/H1-IBgiYY)
+
+### Alex: Update 4
+
+[Update #4](https://hackmd.io/@alexchenzl/r1MnAtKit)
+
+### Alex: Update 5
+
+[Update #5](https://hackmd.io/@alexchenzl/Sy7ZVwzTY)
+
+### Alex: Update 6
+
+[Update #6](https://hackmd.io/@alexchenzl/Hyg8rzwW9)
 
 ## muddlebee 
 
@@ -266,3 +347,17 @@ Development updates from [`taylorjordanNC`](https://github.com/taylorjordanNC/)
 ### Taylor: Update 3
 
 [Update #3](https://hackmd.io/@vanitas/stage-1-1)
+
+## Leo Lara
+
+### Leo Lara: Update 1
+
+[Update #1](./notes/leolara/update-1.md)
+
+### Leo Lara: Update 2
+
+[Update #2](./notes/leolara/update-2.md)
+
+### Leo Lara: Summary of Open Source contributions
+
+[OS contributions](./notes/leolara/os-contrib.md)

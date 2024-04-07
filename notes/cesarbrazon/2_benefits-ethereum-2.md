@@ -1,1 +1,0 @@
-# Benefits of Ethereum 2.0
